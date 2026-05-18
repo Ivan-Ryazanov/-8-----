@@ -1,0 +1,14 @@
+E:\itHub College\2 курс (2 семестр)\ADO.NET (Entity Framework Core)ASP.NET Core\КТ №8 - Бот - словарь\TelegramBot\TelegramBot\TelegramBot\bin\Debug\net8.0\TelegramBot.exe
+E:\itHub College\2 курс (2 семестр)\ADO.NET (Entity Framework Core)ASP.NET Core\КТ №8 - Бот - словарь\TelegramBot\TelegramBot\TelegramBot\bin\Debug\net8.0\TelegramBot.deps.json
+E:\itHub College\2 курс (2 семестр)\ADO.NET (Entity Framework Core)ASP.NET Core\КТ №8 - Бот - словарь\TelegramBot\TelegramBot\TelegramBot\bin\Debug\net8.0\TelegramBot.runtimeconfig.json
+E:\itHub College\2 курс (2 семестр)\ADO.NET (Entity Framework Core)ASP.NET Core\КТ №8 - Бот - словарь\TelegramBot\TelegramBot\TelegramBot\bin\Debug\net8.0\TelegramBot.dll
+E:\itHub College\2 курс (2 семестр)\ADO.NET (Entity Framework Core)ASP.NET Core\КТ №8 - Бот - словарь\TelegramBot\TelegramBot\TelegramBot\bin\Debug\net8.0\TelegramBot.pdb
+E:\itHub College\2 курс (2 семестр)\ADO.NET (Entity Framework Core)ASP.NET Core\КТ №8 - Бот - словарь\TelegramBot\TelegramBot\TelegramBot\obj\Debug\net8.0\TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+E:\itHub College\2 курс (2 семестр)\ADO.NET (Entity Framework Core)ASP.NET Core\КТ №8 - Бот - словарь\TelegramBot\TelegramBot\TelegramBot\obj\Debug\net8.0\TelegramBot.AssemblyInfoInputs.cache
+E:\itHub College\2 курс (2 семестр)\ADO.NET (Entity Framework Core)ASP.NET Core\КТ №8 - Бот - словарь\TelegramBot\TelegramBot\TelegramBot\obj\Debug\net8.0\TelegramBot.AssemblyInfo.cs
+E:\itHub College\2 курс (2 семестр)\ADO.NET (Entity Framework Core)ASP.NET Core\КТ №8 - Бот - словарь\TelegramBot\TelegramBot\TelegramBot\obj\Debug\net8.0\TelegramBot.csproj.CoreCompileInputs.cache
+E:\itHub College\2 курс (2 семестр)\ADO.NET (Entity Framework Core)ASP.NET Core\КТ №8 - Бот - словарь\TelegramBot\TelegramBot\TelegramBot\obj\Debug\net8.0\TelegramBot.dll
+E:\itHub College\2 курс (2 семестр)\ADO.NET (Entity Framework Core)ASP.NET Core\КТ №8 - Бот - словарь\TelegramBot\TelegramBot\TelegramBot\obj\Debug\net8.0\refint\TelegramBot.dll
+E:\itHub College\2 курс (2 семестр)\ADO.NET (Entity Framework Core)ASP.NET Core\КТ №8 - Бот - словарь\TelegramBot\TelegramBot\TelegramBot\obj\Debug\net8.0\TelegramBot.pdb
+E:\itHub College\2 курс (2 семестр)\ADO.NET (Entity Framework Core)ASP.NET Core\КТ №8 - Бот - словарь\TelegramBot\TelegramBot\TelegramBot\obj\Debug\net8.0\TelegramBot.genruntimeconfig.cache
+E:\itHub College\2 курс (2 семестр)\ADO.NET (Entity Framework Core)ASP.NET Core\КТ №8 - Бот - словарь\TelegramBot\TelegramBot\TelegramBot\obj\Debug\net8.0\ref\TelegramBot.dll
